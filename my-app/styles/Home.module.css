@@ -5,6 +5,7 @@
   justify-content: center;
   align-items: center;
   font-family: "Courier New", Courier, monospace;
+  background-color: rgb(168, 173, 177);
 }
 
 .footer {
@@ -12,7 +13,9 @@
   padding: 2rem 0;
   border-top: 1px solid #eaeaea;
   justify-content: center;
+  color:rgb(10, 12, 81);
   align-items: center;
+  background-color:snow;
 }
 
 .image {
@@ -24,19 +27,21 @@
 .title {
   font-size: 2rem;
   margin: 2rem 0;
+  color:greenyellow ;
 }
 
 .description {
   line-height: 1;
   margin: 2rem 0;
   font-size: 1.2rem;
+  color:greenyellow;
 }
 
 .button {
   border-radius: 4px;
   background-color: blue;
   border: none;
-  color: #ffffff;
+  color: greenyellow;
   font-size: 15px;
   padding: 20px;
   width: 200px;
@@ -49,5 +54,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
   }
 }

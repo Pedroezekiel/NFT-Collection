@@ -364,12 +364,12 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="./cryptodevs/5.svg" />
+          <img className={styles.image} src="./cryptodevs/12.svg" />
         </div>
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by Crypto Devs
+        Made with &#10084; by zeepy
       </footer>
     </div>
   );
