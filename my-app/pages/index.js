@@ -369,7 +369,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by zeepy
+        Made by zeepy &#10084;
       </footer>
     </div>
   );
